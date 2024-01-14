@@ -1,5 +1,5 @@
 # FALSE COLOR HEAT MAP LUT
-Cube lut generated in Davinci Resolve
+Cube lut crafted in Davinci Resolve
 
 The lut looks like HEAT MAP from Thermo camera.
 
